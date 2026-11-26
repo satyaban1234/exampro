@@ -1,5 +1,5 @@
 const V='v3';
-const CORE=['./','index.html','app.js','admin.js','manifest.json','icon.svg','icon-192.png','icon-512.png',
+const CORE=['./','index.html','app.js','admin.js','manifest.json','icon-192.png','icon-512.png',
 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css',
 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js',
 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js'];
