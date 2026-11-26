@@ -1,4 +1,4 @@
-const V='v3';
+const V='v4';
 const CORE=['./','index.html','app.js','admin.js','manifest.json','icon-192.png','icon-512.png',
 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css',
 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js',
