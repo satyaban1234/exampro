@@ -74,7 +74,7 @@ const back=(a='home')=>`<button class="b g sm" data-a="${a}">&larr; Back</button
 function home(){
   S={};
   show(`<div class="top"><span></span><button class="ic" data-a="admin" aria-label="Admin">${USER}</button></div>
-  <div class="hero"><img class="logo" src="icon.svg" alt=""><h1>${esc(APP)}</h1><p class="mu">${esc(TAG)}</p></div>
+  <div class="hero"><img class="logo" src="icon-192.png alt=""><h1>${esc(APP)}</h1><p class="mu">${esc(TAG)}</p></div>
   <button class="b" data-a="join">Join Exam</button><button class="b o" data-a="res">Check Result</button>`);
 }
 A.home=home;
